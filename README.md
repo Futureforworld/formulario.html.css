@@ -13,6 +13,11 @@ Bem-vindo ao meu projeto de **formulário responsivo**! Este projeto é uma impl
 - **Design**: Flexbox, Media Queries para responsividade
 - **Validação**: Validação básica em HTML5 para garantir que os dados sejam válidos antes do envio
 
+🛠️ Funcionalidades
+Campos de Texto: O formulário coleta informações como nome, email e mensagem.
+Validação HTML5: O formulário utiliza as capacidades de validação nativas do HTML5 para garantir a entrada de dados válidos.
+Estilos Responsivos: Usando Flexbox e Media Queries, o formulário ajusta-se de forma responsiva a diferentes dispositivos.
+
 ## 🌐 Acesse o site
 Clique no link abaixo para visualizar o **formulário responsivo**:
 
@@ -24,7 +29,3 @@ Clique no link abaixo para visualizar o **formulário responsivo**:
    ```bash
    git clone https://github.com/Futureforworld/formulario.html.css.git
 
-🛠️ Funcionalidades
-Campos de Texto: O formulário coleta informações como nome, email e mensagem.
-Validação HTML5: O formulário utiliza as capacidades de validação nativas do HTML5 para garantir a entrada de dados válidos.
-Estilos Responsivos: Usando Flexbox e Media Queries, o formulário ajusta-se de forma responsiva a diferentes dispositivos.
